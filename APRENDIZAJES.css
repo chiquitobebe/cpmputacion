@@ -1,0 +1,21 @@
+body {background-image: url(https://chilenomac.files.wordpress.com/2010/03/self-referential.png);
+}
+
+h1 {color: rgb(230, 17, 17);
+    font-size: 15px;
+    text-align: center;
+    font-size: 45px;
+    }
+
+    h2 {color: rgb(192, 5, 92);
+        font-size: 10px;
+        text-align: center;
+        font-size: 35px;
+        }
+
+a{display: inline-block;
+background-color: aqua;
+padding: 15px;
+text-decoration: none;}
+
+

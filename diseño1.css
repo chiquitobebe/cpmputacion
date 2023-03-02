@@ -1,0 +1,141 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  width: 750px;
+  height: 750px;
+  margin: auto;
+  background-image: url(https://eveniments.es/wp-content/uploads/2019/03/fondos-abstractos-para-paginas-web-wallpaper-hd-para-bajar-gratis-elegant-3d-abstract-wallpaper-2018-wallpapers-hd-en-2018-of-fondos-abstractos-para-paginas-web-wallpaper-hd-para-bajar-grati.jpg);
+}
+header {
+  width: 750px;
+  height: 250px;
+  background-color: rgb(51, 99, 4);
+}
+nav {
+  width: 750px;
+  height: 50px;
+  background-image: url(https://cdn.pixabay.com/photo/2019/08/26/12/32/feather-4431599_640.jpg);
+}
+nav ul {
+  list-style: none;
+}
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 20px;
+  font-family: Algerian;
+  margin: 45px;
+}
+nav ul li {
+  float: left;
+}
+main {
+  width: 750px;
+  height: 400px;
+  background-color: rgb(25, 207, 146);
+}
+footer {
+  width: 750px;
+  height: 50px;
+  background-image: url(https://cdn.pixabay.com/photo/2012/03/03/23/06/wall-21534_640.jpg);
+  text-align: center;
+}
+section.banner {
+  width: 500px;
+  height: 250px;
+  float: left;
+  background-color: blue;
+  text-align: center;
+}
+section.logo {
+  width: 250px;
+  height: 125px;
+  float: left;
+  background-color: rgb(106, 11, 184);
+}
+section.login {
+  width: 250px;
+  height: 125px;
+  float: left;
+  background-color: rgb(76, 17, 124);
+}
+aside.left {
+  width: 150px;
+  height: 400px;
+  float: left;
+  background-image: url(https://cdn.pixabay.com/photo/2018/07/24/05/23/stone-wall-3558499_640.jpg);
+}
+article {
+  width: 500px;
+  height: 400px;
+  float: left;
+  background-color: rgb(118, 0, 141);
+}
+aside.right {
+  width: 100px;
+  height: 400px;
+  float: left;
+  background-image: url(https://cdn.pixabay.com/photo/2018/07/24/05/23/stone-wall-3558499_640.jpg);
+}
+.buton {
+  padding: 20px;
+  margin: 15px 0px 0px 50px;
+  background-color: rgb(95, 151, 38);
+  border-radius: 10px;
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+}
+button:hover {
+  background-color: darkgoldenrod;
+}
+input {
+  width: 180px;
+  height: 25px;
+  margin: 0px 0px 0px 30px;
+}
+h1 {
+  text-align: center;
+  margin: 30px 0px 0px 30px;
+  font-family: Algerian;
+}
+h2 {
+  text-align: center;
+  font-family: Algerian;
+  margin: 5px;
+  color: #ffffff;
+}
+p {
+  margin: 30px 10px 10px 10px;
+  text-align: center;
+}
+li {
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+}
+img.img1 {
+  margin: 50px 0px 10px;
+}
+.fcc-btn {
+  color: white;
+  padding: 15px 25px;
+  cursor: pointer;
+  border: none;
+  margin: 10px 30px;
+}
+.fcc {
+  color: white;
+  padding: 20px 30px;
+  cursor: pointer;
+  border: none;
+  margin: 10px 30px 10px 10px;
+}
+.btn {
+  color: white;
+  padding: 15px 25px;
+  cursor: pointer;
+  border: none;
+  margin: 0px 10px 10px 10px;
+}
